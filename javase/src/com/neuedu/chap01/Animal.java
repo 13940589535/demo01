@@ -1,6 +1,7 @@
 package com.neuedu.chap01;
 
 public class Animal {
+	//本地修改
 	// 名字
 	protected String name;
 	// 性别
