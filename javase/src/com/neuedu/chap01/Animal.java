@@ -1,5 +1,7 @@
 package com.neuedu.chap01;
 
+//浏览器更改
+
 public class Animal {
 	// 名字
 	protected String name;
